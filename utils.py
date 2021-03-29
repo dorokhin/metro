@@ -74,6 +74,6 @@ def get_or_create_subway_station(cur, station, city_id, line_id) -> int:
             station_order=sql.Literal(station['order'])
         )
         cur.execute(insert)
-        created =True
+        created = True
     cur.execute(get_one)
     return created, cur.fetchone()[0]
