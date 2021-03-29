@@ -43,3 +43,7 @@ Total cities added: 2
 Total metro lines added: 24
 Total metro stations added: 357
 ```
+
+### Screenshots
+
+![alt text](https://github.com/dorokhin/metro/blob/main/img/screenshot_database_1.png?raw=true)
